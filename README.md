@@ -47,9 +47,9 @@ Clone this repository or download the files.
 Place the dataset owid-covid-data.csv into the data/ folder.
 
 Navigate to the root directory and launch Jupyter Notebook:
-
+```
 jupyter notebook
-
+```
 Open notebooks/covid19_global_data_tracker.ipynb and follow the analysis steps.
 
 Project Structure
@@ -63,16 +63,16 @@ Project Structure
 ```
 ### Next Steps
 
-We will now create and populate the Jupyter Notebook with:
+1. We will now create and populate the Jupyter Notebook with:
 
-Data Loading & Exploration
+2. Data Loading & Exploration
 
-Data Cleaning
+3. Data Cleaning
 
-Exploratory Data Analysis (EDA)
+4. Exploratory Data Analysis (EDA)
 
-Vaccination Visualizations
+5. Vaccination Visualizations
 
-Choropleth Map (optional)
+6. Choropleth Map (optional)
 
-Key Insights & Conclusions
+7. Key Insights & Conclusions
